@@ -1,0 +1,5 @@
+util/HttpUtil.class
+model/Period.class
+model/Forecast.class
+model/PointsResponse.class
+WeatherApp.class
